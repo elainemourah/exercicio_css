@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "css_support_class",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502
+	}
+}
